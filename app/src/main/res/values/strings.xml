@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Places Search</string>
+    <string name="loading">Loading...</string>
+    <string name="empty">empty</string>
+    <string name="search">search</string>
+    <string name="location">Location</string>
+    <string name="venue_name">Venue name</string>
+    <string name="venueName">Venue Name</string>
+    <string name="venueAddress">Venue address</string>
+    <string name="venueCategory">Venue category</string>
+    <string name="twitterAddress">twitter</string>
+    <string name="phoneNo">phone no</string>
+    <string name="placeName">Name of the Place</string>
+</resources>
