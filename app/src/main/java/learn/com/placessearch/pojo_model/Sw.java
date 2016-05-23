@@ -1,5 +1,5 @@
 
-package learn.com.placessearch.model;
+package learn.com.placessearch.pojo_model;
 
 
 import com.google.gson.annotations.Expose;
@@ -8,7 +8,7 @@ import com.google.gson.annotations.SerializedName;
 import java.io.Serializable;
 
 
-public class Ne implements Serializable {
+public class Sw implements Serializable {
 
     @SerializedName("lat")
     @Expose

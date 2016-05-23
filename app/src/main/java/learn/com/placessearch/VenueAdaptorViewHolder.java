@@ -5,7 +5,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.TextView;
 
-import learn.com.placessearch.model.Venue;
+import learn.com.placessearch.pojo_model.Venue;
 
 /**
  * Created by muhammad ali

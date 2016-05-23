@@ -1,6 +1,6 @@
 package learn.com.placessearch.presenter;
 
-import learn.com.placessearch.model.Result;
+import learn.com.placessearch.pojo_model.Result;
 
 /**
  * Created by muhammad ali

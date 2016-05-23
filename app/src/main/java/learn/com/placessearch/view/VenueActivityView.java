@@ -2,7 +2,7 @@ package learn.com.placessearch.view;
 
 import java.util.List;
 
-import learn.com.placessearch.model.Venue;
+import learn.com.placessearch.pojo_model.Venue;
 
 /**
  * Created by muhammad ali

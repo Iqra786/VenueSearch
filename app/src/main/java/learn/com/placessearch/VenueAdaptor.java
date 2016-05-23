@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 import java.util.List;
 
-import learn.com.placessearch.model.Venue;
+import learn.com.placessearch.pojo_model.Venue;
 
 /**
  * Created by muhammad ali
@@ -31,7 +31,7 @@ public class VenueAdaptor extends RecyclerView.Adapter<VenueAdaptorViewHolder> {
         String venueName = venueList.get(position).getName();
         holder.venueName.setText(venueName);
         holder.venueName.setTag(venueList.get(position));
-        learn.com.placessearch.model.Location location = venueList.get(position).getLocation();
+        learn.com.placessearch.pojo_model.Location location = venueList.get(position).getLocation();
         if (location != null) {
             String address = location.getAddress() != null ? location.getAddress() : "";
             String postCode = location.getPostalCode() != null ? location.getPostalCode() : "";

@@ -18,7 +18,7 @@ import android.widget.ViewAnimator;
 
 import java.util.List;
 
-import learn.com.placessearch.model.Venue;
+import learn.com.placessearch.pojo_model.Venue;
 import learn.com.placessearch.presenter.VenueActivityPresenter;
 import learn.com.placessearch.view.VenueActivityView;
 

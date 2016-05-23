@@ -6,9 +6,9 @@ import java.util.List;
 
 import learn.com.placessearch.BuildConfig;
 import learn.com.placessearch.data_manager.ApiManager;
-import learn.com.placessearch.model.Response;
-import learn.com.placessearch.model.Result;
-import learn.com.placessearch.model.Venue;
+import learn.com.placessearch.pojo_model.Response;
+import learn.com.placessearch.pojo_model.Result;
+import learn.com.placessearch.pojo_model.Venue;
 import learn.com.placessearch.view.VenueActivityView;
 
 /**

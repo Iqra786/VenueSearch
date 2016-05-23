@@ -1,5 +1,5 @@
 
-package learn.com.placessearch.model;
+package learn.com.placessearch.pojo_model;
 
 import java.io.Serializable;
 import java.util.ArrayList;

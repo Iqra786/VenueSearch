@@ -5,7 +5,7 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
-import learn.com.placessearch.model.Venue;
+import learn.com.placessearch.pojo_model.Venue;
 import learn.com.placessearch.presenter.VenueDetailActivityPresenter;
 import learn.com.placessearch.view.VenueDetailActivityView;
 

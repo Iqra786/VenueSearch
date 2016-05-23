@@ -1,6 +1,6 @@
 package learn.com.placessearch.data_manager;
 
-import learn.com.placessearch.model.Result;
+import learn.com.placessearch.pojo_model.Result;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
 import rx.Observable;

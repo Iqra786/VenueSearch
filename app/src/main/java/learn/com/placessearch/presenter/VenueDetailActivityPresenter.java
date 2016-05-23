@@ -2,9 +2,9 @@ package learn.com.placessearch.presenter;
 
 import java.util.List;
 
-import learn.com.placessearch.model.Category;
-import learn.com.placessearch.model.Contact;
-import learn.com.placessearch.model.Venue;
+import learn.com.placessearch.pojo_model.Category;
+import learn.com.placessearch.pojo_model.Contact;
+import learn.com.placessearch.pojo_model.Venue;
 import learn.com.placessearch.view.VenueDetailActivityView;
 
 /**
@@ -28,7 +28,7 @@ public class VenueDetailActivityPresenter {
                 venueDetailActivityView.setVenueTwitterAddress(contact.getTwitter());
             }
 
-            learn.com.placessearch.model.Location location = venue.getLocation();
+            learn.com.placessearch.pojo_model.Location location = venue.getLocation();
             if (location != null) {
                 String address = location.getAddress() != null ? location.getAddress() : "";
                 String postCode = location.getPostalCode() != null ? location.getPostalCode() : "";

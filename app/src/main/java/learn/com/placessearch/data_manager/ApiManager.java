@@ -4,7 +4,7 @@ package learn.com.placessearch.data_manager;
 import android.util.Log;
 
 import learn.com.placessearch.BuildConfig;
-import learn.com.placessearch.model.Result;
+import learn.com.placessearch.pojo_model.Result;
 import learn.com.placessearch.presenter.DataManagerResponse;
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
