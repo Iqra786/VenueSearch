@@ -9,10 +9,7 @@ import learn.com.placessearch.pojo_model.Venue;
 import learn.com.placessearch.presenter.VenueDetailActivityPresenter;
 import learn.com.placessearch.view.VenueDetailActivityView;
 
-/**
- * Created by muhammad ali ali
- * on 23/05/2016.
- */
+
 public class VenueDetailActivity extends AppCompatActivity implements VenueDetailActivityView {
 
     private TextView mVenueName;
