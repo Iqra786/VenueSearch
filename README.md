@@ -17,7 +17,6 @@ I have used Retrofit for json parsing  with Rxjava.
 Issues:- 
 I haven't handled configration change because of time constraints.
 
-I haven't implemented testcase if you are intested I can demostrate TDD skill as well.
 
 
 
